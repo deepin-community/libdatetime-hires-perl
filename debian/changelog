@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+libdatetime-hires-perl (0.04-2) unstable; urgency=medium
 
-  * Initial release
+  * No-change source-only re-upload.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- gregor herrmann <gregoa@debian.org>  Sun, 22 Jan 2023 17:27:42 +0100
+
+libdatetime-hires-perl (0.04-1) unstable; urgency=low
+
+  * Initial release (closes: #1029379).
+
+ -- gregor herrmann <gregoa@debian.org>  Sun, 22 Jan 2023 00:49:32 +0100
